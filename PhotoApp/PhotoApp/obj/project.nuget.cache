@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "YKYa0+HNQygscHf5MpagLg1FZjB5+pwLp6Eds6fO6sG82uJ5Vt005xRX5hMKaLgbt1DkGg4pJrMQMMErfJFdfA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\elean\\source\\repos\\PhotoApp\\PhotoApp\\PhotoApp\\PhotoApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\elean\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\elean\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\elean\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\elean\\.nuget\\packages\\xam.plugin.media\\5.0.1\\xam.plugin.media.5.0.1.nupkg.sha512",
+    "C:\\Users\\elean\\.nuget\\packages\\xamarin.essentials\\1.5.3.1\\xamarin.essentials.1.5.3.1.nupkg.sha512",
+    "C:\\Users\\elean\\.nuget\\packages\\xamarin.forms\\4.5.0.617\\xamarin.forms.4.5.0.617.nupkg.sha512"
+  ],
+  "logs": []
+}
